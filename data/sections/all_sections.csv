@@ -1,0 +1,182 @@
+Animal_ID,Animal_sex,Behavior,Bregma,cells
+1,Female,Naive,-0.29,6509
+1,Female,Naive,-0.24,6412
+1,Female,Naive,-0.19,6507
+1,Female,Naive,-0.14,6605
+1,Female,Naive,-0.09,6185
+1,Female,Naive,-0.04,6154
+1,Female,Naive,0.01,6111
+1,Female,Naive,0.06,6144
+1,Female,Naive,0.11,5799
+1,Female,Naive,0.16,6067
+1,Female,Naive,0.21,5578
+1,Female,Naive,0.26,5584
+2,Female,Naive,-0.29,6091
+2,Female,Naive,-0.24,6263
+2,Female,Naive,-0.19,6328
+2,Female,Naive,-0.14,6135
+2,Female,Naive,-0.09,5819
+2,Female,Naive,-0.04,5693
+2,Female,Naive,0.01,5677
+2,Female,Naive,0.06,5381
+2,Female,Naive,0.11,5727
+2,Female,Naive,0.16,5284
+2,Female,Naive,0.21,5361
+2,Female,Naive,0.26,5280
+3,Female,Naive,0.01,5824
+3,Female,Naive,0.06,6058
+3,Female,Naive,0.11,5889
+3,Female,Naive,0.16,5736
+3,Female,Naive,0.21,5451
+3,Female,Naive,0.26,5331
+4,Female,Naive,-0.29,6236
+4,Female,Naive,-0.19,5694
+4,Female,Naive,-0.14,6036
+4,Female,Naive,-0.09,4689
+4,Female,Naive,-0.04,5710
+5,Male,Naive,0.01,5951
+5,Male,Naive,0.06,5329
+5,Male,Naive,0.11,5765
+5,Male,Naive,0.16,5839
+5,Male,Naive,0.21,5228
+5,Male,Naive,0.26,5457
+6,Male,Naive,0.01,5555
+6,Male,Naive,0.06,5491
+6,Male,Naive,0.11,5429
+6,Male,Naive,0.16,5143
+6,Male,Naive,0.21,5285
+6,Male,Naive,0.26,4661
+7,Male,Naive,-0.29,5912
+7,Male,Naive,-0.24,5986
+7,Male,Naive,-0.19,5881
+7,Male,Naive,-0.14,5939
+7,Male,Naive,-0.09,5954
+7,Male,Naive,-0.04,5994
+7,Male,Naive,0.01,5862
+7,Male,Naive,0.06,5423
+7,Male,Naive,0.11,6000
+7,Male,Naive,0.16,5780
+7,Male,Naive,0.21,5862
+7,Male,Naive,0.26,5905
+8,Male,Naive,-0.29,5452
+8,Male,Naive,-0.24,5983
+8,Male,Naive,-0.19,6011
+8,Male,Naive,-0.14,5970
+8,Male,Naive,-0.09,6417
+8,Male,Naive,-0.04,6483
+9,Male,Naive,-0.29,6342
+9,Male,Naive,-0.24,6398
+9,Male,Naive,-0.19,6231
+9,Male,Naive,-0.14,6215
+9,Male,Naive,-0.09,6200
+9,Male,Naive,-0.04,6105
+10,Male,Naive,-0.29,5381
+10,Male,Naive,-0.24,6176
+10,Male,Naive,-0.19,5775
+10,Male,Naive,-0.14,5769
+10,Male,Naive,-0.09,6051
+10,Male,Naive,-0.04,6026
+11,Male,Naive,-0.29,5779
+11,Male,Naive,-0.24,5811
+11,Male,Naive,-0.19,5722
+11,Male,Naive,-0.14,6105
+11,Male,Naive,-0.09,6101
+11,Male,Naive,-0.04,6175
+12,Male,Parenting,0.11,5653
+12,Male,Parenting,0.16,5848
+12,Male,Parenting,0.21,5410
+12,Male,Parenting,0.26,5787
+13,Male,Parenting,0.11,5556
+13,Male,Parenting,0.16,4905
+13,Male,Parenting,0.21,5403
+13,Male,Parenting,0.26,5726
+14,Male,Parenting,0.11,5790
+14,Male,Parenting,0.16,5563
+14,Male,Parenting,0.21,5652
+14,Male,Parenting,0.26,5434
+15,Male,Parenting,0.11,5880
+15,Male,Parenting,0.16,5619
+15,Male,Parenting,0.21,5669
+15,Male,Parenting,0.26,5206
+16,Female,Parenting,0.11,5711
+16,Female,Parenting,0.16,5504
+16,Female,Parenting,0.21,5391
+16,Female,Parenting,0.26,5323
+17,Female,Parenting,0.11,5417
+17,Female,Parenting,0.16,5361
+17,Female,Parenting,0.21,5373
+17,Female,Parenting,0.26,4828
+18,Female,Parenting,0.11,5665
+18,Female,Parenting,0.16,5967
+18,Female,Parenting,0.21,5881
+18,Female,Parenting,0.26,5555
+19,Female,Parenting,0.11,5533
+19,Female,Parenting,0.16,5392
+19,Female,Parenting,0.21,5194
+19,Female,Parenting,0.26,4807
+20,Female,Virgin Parenting,0.11,5283
+20,Female,Virgin Parenting,0.16,5620
+20,Female,Virgin Parenting,0.21,5394
+20,Female,Virgin Parenting,0.26,5696
+21,Female,Virgin Parenting,0.11,4877
+21,Female,Virgin Parenting,0.16,5129
+21,Female,Virgin Parenting,0.21,5434
+21,Female,Virgin Parenting,0.26,5770
+22,Female,Virgin Parenting,0.11,5624
+22,Female,Virgin Parenting,0.16,5212
+22,Female,Virgin Parenting,0.21,5492
+22,Female,Virgin Parenting,0.26,5956
+23,Female,Virgin Parenting,0.11,5857
+23,Female,Virgin Parenting,0.16,5449
+23,Female,Virgin Parenting,0.21,5603
+23,Female,Virgin Parenting,0.26,5384
+24,Female,Virgin Parenting,0.11,5606
+24,Female,Virgin Parenting,0.16,5368
+24,Female,Virgin Parenting,0.21,5334
+24,Female,Virgin Parenting,0.26,5017
+25,Female,Mating,0.11,5939
+25,Female,Mating,0.16,5961
+25,Female,Mating,0.21,5223
+25,Female,Mating,0.26,5261
+26,Female,Mating,0.11,5844
+26,Female,Mating,0.16,5887
+26,Female,Mating,0.21,5882
+26,Female,Mating,0.26,5468
+27,Female,Mating,0.11,5150
+27,Female,Mating,0.16,5141
+28,Male,Mating,0.11,5676
+28,Male,Mating,0.16,5599
+28,Male,Mating,0.21,5190
+28,Male,Mating,0.26,5476
+29,Male,Mating,0.11,5877
+29,Male,Mating,0.16,5815
+29,Male,Mating,0.21,5444
+29,Male,Mating,0.26,5511
+30,Male,Mating,0.11,5754
+30,Male,Mating,0.16,5508
+30,Male,Mating,0.21,5660
+30,Male,Mating,0.26,5425
+31,Male,Aggression to adult,0.11,5700
+31,Male,Aggression to adult,0.16,6019
+31,Male,Aggression to adult,0.21,5667
+31,Male,Aggression to adult,0.26,5288
+32,Male,Aggression to adult,0.11,5816
+32,Male,Aggression to adult,0.16,5830
+32,Male,Aggression to adult,0.21,5907
+32,Male,Aggression to adult,0.26,5542
+33,Male,Aggression to adult,0.11,5686
+33,Male,Aggression to adult,0.16,5709
+33,Male,Aggression to adult,0.21,5172
+33,Male,Aggression to adult,0.26,5046
+34,Male,Aggression to pup,0.11,5567
+34,Male,Aggression to pup,0.16,4908
+34,Male,Aggression to pup,0.21,5595
+34,Male,Aggression to pup,0.26,5236
+35,Male,Aggression to pup,0.11,5657
+35,Male,Aggression to pup,0.16,5998
+35,Male,Aggression to pup,0.21,5846
+35,Male,Aggression to pup,0.26,5565
+36,Male,Aggression to pup,0.11,5731
+36,Male,Aggression to pup,0.16,5835
+36,Male,Aggression to pup,0.21,5673
+36,Male,Aggression to pup,0.26,5399

@@ -1,0 +1,41 @@
+{
+  "chosen": 2,
+  "starts": [
+    {
+      "start": 0,
+      "objective": -5509290.910058507,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 1188
+    },
+    {
+      "start": 1,
+      "objective": -5506865.054418346,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 1052
+    },
+    {
+      "start": 2,
+      "objective": -5515373.617324447,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 1069
+    },
+    {
+      "start": 3,
+      "objective": -5515044.161421608,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 1026
+    },
+    {
+      "start": 4,
+      "objective": -5477660.175982253,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 1803
+    },
+    {
+      "start": 5,
+      "objective": -5497829.3413936095,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 1355
+    }
+  ]
+}

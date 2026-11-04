@@ -1,0 +1,12 @@
+{
+ "description": "Two MERFISH sections from Moffitt et al. (2018), CC0 via Dryad (doi:10.5061/dryad.8t8s248), the per-section cell counts of the full table, and the recipients of both designs.",
+ "files": {
+  "data/distributed/animal1_geometry.npz": "292640c3a39846d83c3ebccd742135f955e16d5bbdc219ec00cacb4e5aeeb290",
+  "data/distributed/animal2_geometry.npz": "5ba5fdb0e5cc548a748bff5e09221584676b34c41afeae9159c948b335cd7dfb",
+  "data/fields/animal1_geometry.npz": "8f4cd5345bf4fdbcdc08545ee853cee5061351b4bf2ff632826acf1e53caf04e",
+  "data/fields/animal2_geometry.npz": "53c557178f2f9513ee5fae8e86a6ffe24a3a61a191f67a143fdfba1961584bc1",
+  "data/sections/all_sections.csv": "867e13a4f61ee8b81f22f474ef419e002a661bad73b99ffa61a43e16a59a1c5b",
+  "data/sections/animal1_section.csv.gz": "0ecc42f6b06d4896d1040ffdf54b94b335dc4404967a550b21b5bc36967a09d7",
+  "data/sections/animal2_section.csv.gz": "0c0774e05b45995f1edcbfeed2cea3dad2e04c3be211fb18a1bd146cc1d8d0de"
+ }
+}

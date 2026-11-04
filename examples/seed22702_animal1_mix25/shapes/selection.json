@@ -1,0 +1,194 @@
+{
+  "selected": {
+    "G": "G",
+    "CMDS": "CMDS",
+    "UMAP": "UMAP_geodesic_k25_md0.99_s0",
+    "tSNE": "tSNE_p30_s2"
+  },
+  "shapes": [
+    {
+      "name": "G",
+      "family": "G",
+      "n_supported": 384,
+      "objective": -5169199.683874986,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 578
+    },
+    {
+      "name": "CMDS",
+      "family": "CMDS",
+      "n_supported": 384,
+      "objective": -4377472.70135161,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 130
+    },
+    {
+      "name": "UMAP_cosine_k10_md0.1_s0",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -4820341.903149795,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 380
+    },
+    {
+      "name": "UMAP_cosine_k10_md0.1_s1",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -4836728.778632131,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 396
+    },
+    {
+      "name": "UMAP_cosine_k10_md0.1_s2",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -4762153.609454259,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 348
+    },
+    {
+      "name": "UMAP_cosine_k10_md0.99_s0",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -4722553.195421194,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 209
+    },
+    {
+      "name": "UMAP_cosine_k10_md0.99_s1",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -4846853.173783413,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 281
+    },
+    {
+      "name": "UMAP_cosine_k10_md0.99_s2",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -4710759.909125259,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 239
+    },
+    {
+      "name": "UMAP_cosine_k25_md0.1_s0",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -4944298.1696345955,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 445
+    },
+    {
+      "name": "UMAP_cosine_k25_md0.1_s1",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -5020245.740012445,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 398
+    },
+    {
+      "name": "UMAP_cosine_k25_md0.1_s2",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -4921231.208585877,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 410
+    },
+    {
+      "name": "UMAP_cosine_k25_md0.99_s0",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -4783921.683276463,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 194
+    },
+    {
+      "name": "UMAP_cosine_k25_md0.99_s1",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -4806052.591455523,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 187
+    },
+    {
+      "name": "UMAP_cosine_k25_md0.99_s2",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -4808397.071571569,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 201
+    },
+    {
+      "name": "UMAP_geodesic_k25_md0.99_s0",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -5425732.024099855,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 302
+    },
+    {
+      "name": "UMAP_geodesic_k25_md0.99_s1",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -5350156.189295191,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 286
+    },
+    {
+      "name": "UMAP_geodesic_k25_md0.99_s2",
+      "family": "UMAP",
+      "n_supported": 384,
+      "objective": -5313436.130393444,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 239
+    },
+    {
+      "name": "tSNE_p10_s0",
+      "family": "tSNE",
+      "n_supported": 384,
+      "objective": -4413809.7377776075,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 135
+    },
+    {
+      "name": "tSNE_p10_s1",
+      "family": "tSNE",
+      "n_supported": 384,
+      "objective": -4674873.56969318,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 138
+    },
+    {
+      "name": "tSNE_p10_s2",
+      "family": "tSNE",
+      "n_supported": 384,
+      "objective": -4642236.093594468,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 135
+    },
+    {
+      "name": "tSNE_p30_s0",
+      "family": "tSNE",
+      "n_supported": 384,
+      "objective": -4839803.095518317,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 169
+    },
+    {
+      "name": "tSNE_p30_s1",
+      "family": "tSNE",
+      "n_supported": 384,
+      "objective": -4763174.850846112,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 176
+    },
+    {
+      "name": "tSNE_p30_s2",
+      "family": "tSNE",
+      "n_supported": 384,
+      "objective": -4862915.649599956,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 248
+    }
+  ]
+}

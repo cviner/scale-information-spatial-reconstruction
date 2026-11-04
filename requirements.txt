@@ -1,0 +1,8 @@
+numpy==2.4.0
+scipy==1.16.3
+scikit-learn==1.9.1
+pandas>=2.2
+# Needed only for the UMAP comparison shapes
+umap-learn==0.5.12
+# Model P
+msld @ git+https://github.com/cviner/multiscale-latent-distance@v1.0.0
